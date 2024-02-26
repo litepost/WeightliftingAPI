@@ -1,0 +1,6 @@
+@WeightliftingAPI_HostAddress = http://localhost:5033
+
+GET {{WeightliftingAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
